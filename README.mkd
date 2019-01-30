@@ -4,7 +4,7 @@ Description: Precision colors for machines and people
 Author: Ethan Schoonover
 Colors: light yellow
 Created:  2011 Mar 15
-Modified: 2011 Apr 16
+Modified: 2019 Jan 30 by bluedrink9
 
 ---
 
@@ -12,6 +12,11 @@ Solarized Colorscheme for Vim
 =============================
 
 Developed by Ethan Schoonover <es@ethanschoonover.com>
+
+Adapted to allow termguicolors by nisavid (who also made some personal changes,
+so this fork is meant to be base vim solarized but with his termguichanges).
+
+This fork is designed to be a more up-to-date fork of the base colourscheme.
 
 Visit the [Solarized homepage]
 ------------------------------
